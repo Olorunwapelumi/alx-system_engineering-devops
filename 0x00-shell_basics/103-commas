@@ -1,2 +1,2 @@
 #1/bin/bash
-ls -apm | sort -d
+ls -pam
